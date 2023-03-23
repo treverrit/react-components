@@ -1,0 +1,24 @@
+{
+    "images": [
+        {
+            "src": "https://picsum.photos/seed/img1/400/600",
+            "alt": "image 1"
+        },
+        {
+            "src": "https://picsum.photos/seed/img2/400/600",
+            "alt": "image 2"
+        },
+        {
+            "src": "https://picsum.photos/seed/img3/400/600",
+            "alt": "image 3"
+        },
+        {
+            "src": "https://picsum.photos/seed/img4/400/600",
+            "alt": "image 4"
+        },
+        {
+            "src": "https://picsum.photos/seed/img5/400/600",
+            "alt": "image 5"
+        }
+    ]
+}
